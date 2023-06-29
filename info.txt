@@ -1,0 +1,4 @@
+data -  all the data nedded for the project including the icons sounds etc.
+po - use to impliment multilanguage support (useless)
+src - This is a directory that contains the source code for your project. It typically includes multiple source code files, organized by module or functionality.
+
